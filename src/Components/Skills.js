@@ -37,7 +37,7 @@ function Skills() {
 				</div>
 				<div className="flex flex-col w-40 p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52">
 					{" "}
-					<SiTailwindcss color="green" className="mx-auto text-4xl" />
+					<SiTailwindcss color="00C0A3" className="mx-auto text-4xl" />
 					<p className="mt-6 text-xl sm:text-2xl font-semibold text-center">
 						Tailwindcss
 					</p>

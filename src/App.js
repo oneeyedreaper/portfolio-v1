@@ -15,11 +15,11 @@ function App() {
 	}, []);
 	return (
 		<div className="min-h-screen py-10 px-3 sm:px-5 bg-gray-100">
-			<div data-aos="fade-down" data-aos-duraion="800">
+			<div data-aos="fade-down" data-aos-duraion="1000">
 				<Card />
 			</div>
 
-			<div data-aos="fade-up" data-aos-duraion="800" data-aos-delay="400">
+			<div data-aos="fade-up" data-aos-duraion="1000" data-aos-delay="500">
 				<About />
 			</div>
 
